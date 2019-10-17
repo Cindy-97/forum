@@ -10,7 +10,7 @@ function AppRouter() {
   const fallback = () => {
     return (
       <div>
-        loding...
+        loding......
       </div>
     )
   }
